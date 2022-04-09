@@ -15,7 +15,6 @@
 
 import hashlib
 import  argparse
-from re import match
 from urllib import request as url_request
 from urllib import error as  url_error
 import logging
